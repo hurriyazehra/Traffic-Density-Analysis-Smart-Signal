@@ -1,51 +1,30 @@
-Traffic Density Analysis at Smart Signal
+# 🚦 Traffic Density Analysis at Smart Signal
 
-Overview
+A C programming project developed to analyze traffic density at a four-road intersection. The program calculates the total number of vehicles, identifies the busiest road, recommends the green signal, and generates congestion alerts for heavy traffic.
 
-This project is developed in C programming to analyze traffic density at a four-road intersection. The program calculates the total number of vehicles, identifies the busiest road, recommends the green signal, and displays congestion alerts when traffic exceeds a predefined limit.
+## Features
 
-Features
+- Accept vehicle count for four roads
+- Calculate total traffic
+- Identify the busiest road
+- Recommend the green signal
+- Display congestion alerts
+- Simple console-based interface
 
-- Accepts vehicle count for 4 roads
-- Calculates total traffic
-- Identifies the busiest road
-- Recommends the green signal
-- Displays congestion alerts for heavy traffic
+## Concepts Used
 
-Technologies Used
+- Arrays
+- Functions
+- Loops
+- Conditional Statements
+
+## Technologies Used
 
 - C Programming
-- Arrays
-- Functions
-- Loops
-- Conditional Statements
+- VS Code
 
-Sample Input
-```
-Road 1 = 45
-Road 2 = 62
-Road 3 = 38
-Road 4 = 55
-```
+## About the Project
 
-Sample Output
-```
---- Traffic Analysis Report ---
+This project was developed as part of a university Computer Programming course to demonstrate the practical application of C programming concepts in solving a real-world engineering problem related to smart traffic management.
 
-Total Vehicles: 200
-Busiest Road: Road 2
-Recommended Green Signal: Road 2
-Congestion Alert: Road 2 has heavy traffic!
-Congestion Alert: Road 4 has heavy traffic!
-```
-Concepts Used
 
-- Arrays
-- Functions
-- Loops
-- Conditional Statements
-
-Author
-
-Syeda Hurriya Zehra
-Information Security Engineering Student
